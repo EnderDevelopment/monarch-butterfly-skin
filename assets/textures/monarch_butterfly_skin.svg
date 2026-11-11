@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <title>Monarch butterfly Minecraft skin</title>
+  <desc>Classic 64 by 64 Minecraft skin atlas with antennae, monarch wings on the back, and an I love Minecraft shirt motif.</desc>
+  <!-- Head base -->
+  <path fill="#17191a" d="M8 0h8v8H8z M0 8h24v8H0z M24 8h8v8h-8z"/>
+  <path fill="#f2a43a" d="M8 0h8v2H8z M0 10h2v4H0z M22 10h2v4h-2z M24 10h8v4h-8z"/>
+  <path fill="#f2c48b" d="M8 8h8v8H8z"/>
+  <path fill="#17191a" d="M9 10h2v2H9z M13 10h2v2h-2z M10 14h4v1h-4z"/>
+  <path fill="#cf7629" d="M8 8h8v1H8z M8 15h8v1H8z"/>
+  <!-- Head overlay and paired antennae -->
+  <path fill="#17191a" d="M41 9h1v2h-1z M42 8h1v1h-1z M43 9h1v2h-1z M44 10h1v2h-1z M45 9h1v2h-1z M46 8h1v1h-1z M47 9h1v2h-1z M42 11h1v2h-1z M46 11h1v2h-1z"/>
+  <path fill="#f2a43a" d="M41 8h2v1h-2z M46 8h2v1h-2z M43 11h1v1h-1z M45 11h1v1h-1z"/>
+  <!-- Torso base and shirt -->
+  <path fill="#17191a" d="M16 20h4v12h-4z M28 20h4v12h-4z M32 20h8v12h-8z"/>
+  <path fill="#277a45" d="M20 20h8v12h-8z M20 16h8v4h-8z"/>
+  <path fill="#36a852" d="M20 20h8v2h-8z M20 30h8v2h-8z"/>
+  <path fill="#f4f0d8" d="M21 23h1v3h-1z M22 25h1v1h-1z M24 24h1v1h-1z M26 24h1v1h-1z M23 25h1v1h-1z M25 25h1v1h-1z M22 26h1v1h-1z M24 26h1v1h-1z M26 26h1v1h-1z"/>
+  <path fill="#202729" d="M22 28h1v3h-1z M24 28h1v1h-1z M26 28h1v1h-1z M24 29h1v2h-1z M26 29h1v2h-1z"/>
+  <!-- Monarch wings on torso back -->
+  <path fill="#17191a" d="M32 20h8v12h-8z"/>
+  <path fill="#ed8527" d="M33 21h2v4h-2z M37 21h2v4h-2z M33 27h2v4h-2z M37 27h2v4h-2z M35 22h2v8h-2z"/>
+  <path fill="#f6b943" d="M34 22h1v3h-1z M37 22h1v3h-1z M34 28h1v2h-1z M37 28h1v2h-1z"/>
+  <path fill="#f4f0d8" d="M33 21h1v1h-1z M38 21h1v1h-1z M33 24h1v1h-1z M38 24h1v1h-1z M33 28h1v1h-1z M38 28h1v1h-1z M33 30h1v1h-1z M38 30h1v1h-1z"/>
+  <path fill="#17191a" d="M32 36h8v12h-8z"/>
+  <path fill="#ed8527" d="M33 37h2v4h-2z M37 37h2v4h-2z M33 43h2v4h-2z M37 43h2v4h-2z M35 38h2v8h-2z"/>
+  <path fill="#f6b943" d="M34 38h1v3h-1z M37 38h1v3h-1z M34 44h1v2h-1z M37 44h1v2h-1z"/>
+  <path fill="#f4f0d8" d="M33 37h1v1h-1z M38 37h1v1h-1z M33 40h1v1h-1z M38 40h1v1h-1z M33 44h1v1h-1z M38 44h1v1h-1z M33 46h1v1h-1z M38 46h1v1h-1z"/>
+  <!-- Arms and sleeves -->
+  <path fill="#277a45" d="M44 20h4v12h-4z M40 20h4v12h-4z M36 52h4v12h-4z M32 52h4v12h-4z"/>
+  <path fill="#36a852" d="M44 20h4v3h-4z M36 52h4v3h-4z"/>
+  <path fill="#17191a" d="M40 20h4v12h-4z M48 20h4v12h-4z M32 52h4v12h-4z M40 52h4v12h-4z"/>
+  <path fill="#f2a43a" d="M44 24h4v8h-4z M36 56h4v8h-4z"/>
+  <path fill="#ed8527" d="M44 24h4v2h-4z M36 56h4v2h-4z"/>
+  <!-- Legs and boots -->
+  <path fill="#202729" d="M4 20h8v12H4z M20 52h8v12h-8z M0 20h4v12H0z M12 20h4v12h-4z M16 52h4v12h-4z M28 52h4v12h-4z"/>
+  <path fill="#30383a" d="M4 20h8v3H4z M20 52h8v3h-8z"/>
+  <path fill="#17191a" d="M4 29h8v3H4z M20 61h8v3h-8z"/>
+  <path fill="#f2a43a" d="M0 22h4v5H0z M12 22h4v5h-4z M16 54h4v5h-4z M28 54h4v5h-4z"/>
+</svg>
